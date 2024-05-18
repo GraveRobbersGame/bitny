@@ -1,0 +1,16 @@
+{
+    "name": "Bleeding in the New Year",
+    "short": "Bleeding in the New Year",
+    "year": "2024",
+    "sigil": "bitny",
+    "type": "official",
+    "description" : "It's set to be Fangtastic!",
+    
+    "list": "list.json",
+    "packs": "packs.json",
+    "cover": "cover.jpeg",
+    "art": "/art/",
+    "thumb": "/thumb/",
+    "link" : "https://shop.arghacademy.org/products/bleeding-in-the-new-year",
+    "link_text": "Get it at the ARGH Shop"
+}

@@ -1,0 +1,2061 @@
+[
+    {
+        "type": "character",
+        "name": "Flaky Ingenue",
+        "art": "01-01.jpeg",
+        "traits": [
+            "Dumb",
+            "Female",
+            "Virgin"
+        ],
+        "stat": "0",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Excuse me, darling. What is it exactly that you DO do?\"",
+        "abilities": "'Male' Characters in her Movie are at -1 Defense and gain the Trait 'Unlucky'. May be played into an Opponent's Movie.",
+        "title": "Blonde",
+        "number": "01-01",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Van Helsing",
+        "art": "01-02.jpeg",
+        "traits": [
+            "Smart",
+            "Old",
+            "Male"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Stakeouts are for detectives. I prefer stake-ins.\"",
+        "abilities": "Defense = 5 against 'Vampire' attacks. Defense = 8 if it's against a \"Dracula\".",
+        "title": "Van",
+        "number": "01-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Jonathan Harker",
+        "art": "01-03.jpeg",
+        "traits": [
+            "Male",
+            "Smart"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Should have hired a better real estate agent... and maybe a vampire slayer.\"",
+        "abilities": "When Harker is cast in your Movie, search your deck for a Location and place it into your hand. Reshuffle your deck afterwards.",
+        "title": "Estate",
+        "number": "01-03",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Hammered Dracula",
+        "art": "01-04.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "12",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"To eternal life, or at least until the next happy hour!\"",
+        "abilities": "'Drunk' Characters cannot defend against Hammered Dracula, and you may play 'Booze' Props on him for free, each 'Booze' Prop doubling his Attack.",
+        "title": "Drink",
+        "number": "01-04",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Dracula's Brides",
+        "art": "01-05.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "7",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Flitting around in their nightwear all over the place... distractingly...\" GAK!",
+        "abilities": "If successful you may claim one more Victim. Can be combined into a single attack with any \"Dracula\".",
+        "title": "Brides",
+        "number": "01-05",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Vampire Baron",
+        "art": "01-06.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "15",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Now, now mother... come along with me!\"",
+        "abilities": "Always succeeds against a Movie with a \"Mom\", \"Momma\", or \"Mother\" in it.",
+        "title": "Mommy",
+        "number": "01-06",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Creepy Old Castle",
+        "art": "01-07.jpeg",
+        "traits": [
+            "Building"
+        ],
+        "stat": "6",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"The car's dead, what are we going to do?\" \"There's a light over at the Count's place.\"",
+        "abilities": "Defense = -5 against 'Supernatural' attacks.",
+        "title": "Stone",
+        "number": "01-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Boudoir",
+        "art": "01-08.jpeg",
+        "traits": [
+            "Indoors"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"Vampires, corsets, and tea. Life as Dracula's bride is interesting.\"",
+        "abilities": "'Indoors' — May be Combined with an existing 'Building'.\n\n'Virgin' Characters gain +1 Defense here.",
+        "title": "Lace",
+        "number": "01-08",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Filmy Nightgown",
+        "art": "01-09.jpeg",
+        "traits": [
+            "Clothing"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"So sheer, even ghosts envy it.\"",
+        "abilities": "Defense = 3 on a 'Female' Character. Defense = -2 on a 'Male' Character. May be played into an Opponent's Movie.",
+        "title": "Transparent",
+        "number": "01-09",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Mirror",
+        "art": "01-10.jpeg",
+        "traits": [
+            "Magic"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Mirror mirror on the wall, who's the biggest badass of them all?\"",
+        "abilities": "When the Mirror comes into play, choose a Trait. Every time an Opponent draws a card with that Trait, they must reveal it to you before it goes into their hand. If they don't, once discovered you may place the card in your hand.",
+        "title": "Quicksilver",
+        "number": "01-10",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Improvised Cross",
+        "art": "01-11.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Back, foul monster!\"",
+        "abilities": "Stop a 'Supernatural' attack if the targeted Movie has a Character who is holding exactly two Props.",
+        "title": "Back",
+        "number": "01-11",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Bathtub Full of Blood",
+        "art": "01-12.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Blast... drain's clogged again.\"",
+        "abilities": "Kill any 'Virgin' Character in play. Then attach this card to one of your Characters. They gain the Traits 'Supernatural' and 'Young'.",
+        "title": "Gore",
+        "number": "01-12",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Blood on the Ashes",
+        "art": "01-13.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Ow! Papercut...\"",
+        "abilities": "Bring a 'Vampire' from your Graveyard back into your hand.",
+        "title": "Catastrophe",
+        "number": "01-13",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...And She Fell into Their Embrace!",
+        "art": "01-14.jpeg",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Don't be afraid, my dear. We are bound by a force even stronger than fear.\"",
+        "abilities": "Beginning your next turn, if an Opponent has a 'Female' Character you may Bank this Twist. If you do, her owner may re-assign her Props. Play her in your Movie. She gains the Trait 'Ghoul' (Cannot defend against 'Vampire' attacks).",
+        "title": "Embrace",
+        "number": "01-14",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...And They Were Bitten By The Vampire!",
+        "art": "01-15.jpeg",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Because regular hickeys are so last century.\"",
+        "abilities": "Starting your next turn you may Bank this Twist if there is at least one non-'Vampire' Character in play. If you do, they gain the Trait: 'Vampire' [May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Cannot defend against 'Vampire' attacks). On failure, the Vampire is Knocked Out.]",
+        "title": "Nibble",
+        "number": "01-15",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll the Credits! (1)",
+        "art": "01-16.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well, the Vampire was shadow-puppeted to death with a cross, so I guess it's over!\"",
+        "abilities": "",
+        "title": "Hammer",
+        "number": "01-16",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Crazy Old Grandad",
+        "art": "02-01.jpeg",
+        "traits": [
+            "Old",
+            "Family",
+            "Neighborhood",
+            "Male"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"One thing about living here I never could stomach. All the damn vampires!\"",
+        "abilities": "'Vehicle' Props' Defense is double when on the Crazy Old Grandad.",
+        "title": "Loony",
+        "number": "02-01",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Edgy Big Brother",
+        "art": "02-02.jpeg",
+        "traits": [
+            "Family",
+            "Neighborhood",
+            "College",
+            "Male"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Look! This isn't a comic book!\"",
+        "abilities": "Defense = 4 if there are any 'Young' or 'College' Characters are in the same Movie.",
+        "title": "Swagger",
+        "number": "02-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Cute Vampire Girl",
+        "art": "02-03.jpeg",
+        "traits": [
+            "Young",
+            "Female",
+            "Vampire"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Lemmie give you a 'kiss' for luck?\"",
+        "abilities": "Tip a 'Male' in your Movie during an attack — The Vampire Girl gains Defense equal to half the 'Male's Defense, rounded down until the end of the attack.\n\n'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Cannot defend against 'Vampires'). On failure, the Vampire is Knocked Out.",
+        "title": "Kiss",
+        "number": "02-03",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Master Vampire",
+        "art": "02-04.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "14",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Never invite a vampire into your home, dear boy. Because then he eats your face!\"",
+        "abilities": "'Young' or 'College' Characters cannot defend against the Master. May be played as a Special Effect to quadruple the \"Teenage Vampire Hoods\" or double any other 'Vampire' Attack.",
+        "title": "Master",
+        "number": "02-04",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Alpha Vampire",
+        "art": "02-05.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "7",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Come on, be one of us!\"",
+        "abilities": "'Vampires' cannot defend against the Alpha.",
+        "title": "Alpha",
+        "number": "02-05",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Teenage Vampire Hoods",
+        "art": "02-06.jpeg",
+        "traits": [
+            "Supernatural",
+            "Neighborhood",
+            "Vampire"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"C'mon Billy!\" \"Yeah Billy!\" \"Let's go Billy!\" \"Peer pressure, Billy!\" \"Biiiilly!\" \"Billy?\"",
+        "abilities": "'Gains' +2 Attack for every 'Neighborhood' card in the target Movie.",
+        "title": "Hoods",
+        "number": "02-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Railway Bridge",
+        "art": "02-07.jpeg",
+        "traits": [
+            "Natural",
+            "Outdoors"
+        ],
+        "stat": "6",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Wait... I see a light!\"",
+        "abilities": "After you Fill Up at the beginning of the turn you must pay 2 Popcorn, or the train comes. If that happens, all Characters at this Location die. You may pay 1 Popcorn per Character you want to save. After this the Railway Bridge is discarded.",
+        "title": "Locomotive",
+        "number": "02-07",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Boardwalk at Night",
+        "art": "02-08.jpeg",
+        "traits": [
+            "Aquatic",
+            "Event"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Step right up! Step right up!\"",
+        "abilities": "'Events' can Combine with an existing Location that shares a Trait other than 'Event'.\n\nPay 2 Popcorn on your turn — Reveal the top card of your Deck. If it's a Prop, you may play it into your Movie. Otherwise discard it.",
+        "title": "Shore",
+        "number": "02-08",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Water Pistol",
+        "art": "02-09.jpeg",
+        "traits": [
+            "Weapon",
+            "Supernatural"
+        ],
+        "stat": "0",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"It's holy water.\"",
+        "abilities": "Defense = 5 against 'Supernatural' OR 'Vampire' attacks.",
+        "title": "Soaked",
+        "number": "02-09",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Old Pickup Truck",
+        "art": "02-10.jpeg",
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Who's got the keys?\" \"Billy.\" \"Aaaaand would this be Billy's severed head in the toilet?\"",
+        "abilities": "Any time your movie loses one or more Props, you may give one of them to the owner of the Pickup.",
+        "title": "Satan",
+        "number": "02-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Vampire Romance",
+        "art": "02-11.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"So tragic!\" \"Uh... It don't look so tragic. They're comin' right at us!\"",
+        "abilities": "Play in your Movie and designate one 'Vampire' and one NON-'Vampire' NON-'Virgin' Character to be lovers. If one is involved in a Duel, you may tip the other one to add their Defense as if they were dueling to the attack. If one dies, discard this card.",
+        "title": "Silver",
+        "number": "02-11",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Bat Transformation",
+        "art": "02-12.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Bats! Why did it have to be bats?!\"",
+        "abilities": "If the current attack is a 'Vampire' attack, you may either grant it the trait 'Swarm' OR if it's yours you may return it to your hand.",
+        "title": "Wings",
+        "number": "02-12",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Random Musical Number",
+        "art": "02-13.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"What, are we in a Disney movie?\"",
+        "abilities": "Play this card in your Movie. All attacks made until the start of your next turn cost one less Popcorn. It is discarded afterwards.",
+        "title": "Pipes",
+        "number": "02-13",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...And They Were the Master Vampire All Along!",
+        "art": "02-14.jpeg",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"It was noble of you. But prophecies are tricky creatures.\"",
+        "abilities": "If you have at least two 'Vampires' in your Movie and one Non-'Vamprire' Character, you may Bank this Twist. Remove the Non-'Vampire' from the game. Bank their Printed Defense. Search your deck for a 'Vampire' Character and play them in your Movie. Attach this card to them. They now have +3 Defense. Shuffle your deck.",
+        "title": "Double",
+        "number": "02-14",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...And They Drove\nStraight Through It!",
+        "art": "02-15.jpeg",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Brace for impact!!!\"",
+        "abilities": "Starting your next turn, if you have a Character with a 'Vehicle' Prop and there is a Location anywhere in play, you may Bank this Twist. If you do, discard the 'Vehicle', Bank its Printed Defense, and discard the Location.",
+        "title": "Obliteration",
+        "number": "02-15",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll the Credits! (2)",
+        "art": "02-16.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Well, the house is absolutely destroyed but hey, there are still drinks in the fridge! So I guess it's over!\"",
+        "abilities": "",
+        "title": "Summer",
+        "number": "02-16",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Vampire Slayer",
+        "art": "03-01.jpeg",
+        "traits": [
+            "Young",
+            "Neighborhood",
+            "College",
+            "Female"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Huh. That's an unusual name.\"",
+        "abilities": "Defense = 5 against 'Vampire' and 'Supernatural' attacks, and 'Supernatural' Props are at +2 Defense in her hands.",
+        "title": "Somebody",
+        "number": "03-01",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Romantic Vamp Boy",
+        "art": "03-02.jpeg",
+        "traits": [
+            "Large",
+            "Dumb",
+            "Male",
+            "Vampire"
+        ],
+        "stat": "4",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"I'm 218 years old! You can't understand me!\"",
+        "abilities": "Defense = 0 if your Movie does not have a 'Female' Character in it.\n\n'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Defense against 'Vampire' attacks = 0). On failure, the Vampire is Knocked Out.",
+        "title": "Devil",
+        "number": "03-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Hot Cockney Vampire",
+        "art": "03-03.jpeg",
+        "traits": [
+            "Smart",
+            "Male",
+            "Vampire"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Hey love. Hows about you make yourself useful?\"",
+        "abilities": "'Female' Characters in the same Movie gain +1 Defense.\n\n'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Defense against 'Vampire' attacks = 0). On failure, the Vampire is Knocked Out.",
+        "title": "Nail",
+        "number": "03-03",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Evil Mayor",
+        "art": "03-04.jpeg",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "5",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Not now! I have a virgin to sacrifice and a campaign to win.\"",
+        "abilities": "When the Mayor attacks, each Player casts one yea or nay vote for every Character they have in their Movie. If the yeas win, the Mayor succeeds. (Ties don't count.) If not, the attack proceeds as normal.",
+        "title": "Mayor",
+        "number": "03-04",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Vampire Mooks",
+        "art": "03-05.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire",
+            "Swarm"
+        ],
+        "stat": "7",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Whoa! These mooks have fangs!\"",
+        "abilities": "'Swarm' — 'Weapons' cannot defend against the Mooks.\n\nIf the Mooks are successful, instead of killing the Victim, you may choose to Knock them Out instead. If so, after the attack, the Mooks return to their Owner's hand.",
+        "title": "Cluster",
+        "number": "03-05",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Skippy the Undead Hellhound",
+        "art": "03-06.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "20",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"W-what's that Skippy? AHHH! NO!\" GAK! ARGH! GURGLE!",
+        "abilities": "\"Skippy\" Characters cannot defend against the Hellhound.",
+        "title": "Dog",
+        "number": "03-06",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Creepy Old Library",
+        "art": "03-07.jpeg",
+        "traits": [
+            "Building",
+            "School"
+        ],
+        "stat": "1",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"In the battle of the supernatural, always remember: Overdue books are scarier than vampires.\"",
+        "abilities": "Pay 2 Popcorn on your turn — Search your Deck for a 'Book' Prop and play it in your Movie. Reshuffle your Deck afterwards.\n\nYou may discard a 'Book' Prop from your Movie to generate 2 Popcorn.",
+        "title": "Librarian",
+        "number": "03-07",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Cemetery",
+        "art": "03-08.jpeg",
+        "traits": [
+            "Mortuary",
+            "Natural"
+        ],
+        "stat": "1",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"They're coming to get you, Barbara!\"",
+        "abilities": "May be attached to the \"House By The Cemetery\" or any 'Holy' or 'Mortuary' Location. 'Zombie' Attacks always succeed in the Cemetery.",
+        "title": "Through",
+        "number": "03-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Sharp Stake",
+        "art": "03-09.jpeg",
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Fun fact: A stake through the heart kills humans just as well as vampires.\"",
+        "abilities": "Discard from play to stop a 'Vampire' attack made against your Movie. Remove that 'Vampire' from the game.",
+        "title": "Impaled",
+        "number": "03-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Crucifix",
+        "art": "03-10.jpeg",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"You have to have faith for that to work!\"",
+        "abilities": "Pay 3 Popcorn and discard from play — Stop a 'Vampire' attack made against your Movie. Pay no Popcorn if in the hands of any \"Priest\", \"Minister\", \"Reverend\", or \"Cleric\".",
+        "title": "Cross",
+        "number": "03-10",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Portal to Hell",
+        "art": "03-11.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Where do you think THAT goes?\" \"No place good!\"",
+        "abilities": "Spend 2X Popcorn to take X Creature cards out of your Graveyard and make a single Attack with all of them Combined.",
+        "title": "Swarm",
+        "number": "03-11",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Hiss and Flee!",
+        "art": "03-12.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Crap! They really do that??\"",
+        "abilities": "Put target 'Vampire' currently in play that you control into your hand.",
+        "title": "Hissing",
+        "number": "03-12",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Vegetarian Vamps",
+        "art": "03-13.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Killing humans is wrong, man!\"",
+        "abilities": "Play during a 'Vampire' attack to cut the Attack Strength in half (rounded down).",
+        "title": "Angel",
+        "number": "03-13",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...But Wait... There's TWO of You?",
+        "art": "03-14.jpeg",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"But... but I'M the chosen one!\"",
+        "abilities": "Starting your next turn, when you are under attack and have at least one Character you may Bank this Twist. If you do, play this card in your Movie. It becomes a complete copy of ONE of your Characters and joins in on the attack. If the double is killed, return this card as a normal Banked Twist to your Movie.",
+        "title": "Double",
+        "number": "03-14",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...But They Were Invited In!",
+        "art": "03-15.jpeg",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"How did you get in here??\" \"Billy... invited me.\"",
+        "abilities": "Starting your next turn, if a 'Vampire' attack you've launched is against a 'Building' or 'Indoors' Location, you may Bank this Twist. If you do it automatically succeeds.",
+        "title": "Threshold",
+        "number": "03-15",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll the Credits! (3)",
+        "art": "03-16.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Well, that Hell Maw thing closed and the ghouly things are all gone so it must be over!\"",
+        "abilities": "",
+        "title": "Summer",
+        "number": "03-16",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Dhampir",
+        "art": "04-01.jpeg",
+        "traits": [
+            "Large",
+            "Male",
+            "Vampire"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Damn vampire!\" \"It's pronounced 'Dham-PEER,' actually.\"",
+        "abilities": "Can have the 'Vampire' Trait when convenient.\n\n'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Cannot defend against 'Vampires'). On failure, the Vampire is Knocked Out.",
+        "title": "Handy",
+        "number": "04-01",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Alucard",
+        "art": "04-02.jpeg",
+        "traits": [
+            "Smart",
+            "Male",
+            "Anime",
+            "Vampire"
+        ],
+        "stat": "5",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Heheh, they'll never know who I REALLY am... Idiots.\"",
+        "abilities": "'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Cannot defend against 'Vampires'). On failure, the Vampire is Knocked Out.",
+        "title": "Hellsing",
+        "number": "04-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Vampiretta",
+        "art": "04-03.jpeg",
+        "traits": [
+            "Large",
+            "Female",
+            "Anime",
+            "Vampire"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"She's like a Vampire but... a WOMAN.\"",
+        "abilities": "'Male' Duel targets are at -2 Defense.\n\n'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Cannot defend against 'Vampires'). On failure, the Vampire is Knocked Out.",
+        "title": "Vampiress",
+        "number": "04-03",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Space Vampires",
+        "art": "04-04.jpeg",
+        "traits": [
+            "Alien",
+            "Vampire"
+        ],
+        "stat": "14",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"In space, no one can hear you bleed.\"",
+        "abilities": "Automatically succeeds in any 'Alien' Location.",
+        "title": "Orbit",
+        "number": "04-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Gothic Lolita Vampiress",
+        "art": "04-05.jpeg",
+        "traits": [
+            "Supernatural",
+            "Anime",
+            "Vampire"
+        ],
+        "stat": "15",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"So, what's your schtick, princess?\" \"I eat child molesters.\" \"Ah...\"",
+        "abilities": "NON-'Young' Characters cannot defend against the Lolita. She also cannot choose a 'Young' Victim.",
+        "title": "Lolita",
+        "number": "04-05",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Carmilla",
+        "art": "04-06.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "15",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Oh! Oh! Take me! Take me!\" \"You're not my type...\"",
+        "abilities": "'Female' Characters cannot defend against Carmilla. And if she kills a female Victim she returns to her owner's hand.",
+        "title": "Sapphic",
+        "number": "04-06",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Dark Alleyways",
+        "art": "04-07.jpeg",
+        "traits": [
+            "Outdoors"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Wait! I know a shortcut...\"",
+        "abilities": "'Vampire' and 'Psycho' attacks always succeed here.",
+        "title": "Shadows",
+        "number": "04-07",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Isolated Village",
+        "art": "04-08.jpeg",
+        "traits": [
+            "Natural"
+        ],
+        "stat": "1",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"It says on the sign, 'Fang-free since 1692.' But it was recently crossed out...\"",
+        "abilities": "'Vampire' attacks that fail against the Village go back to their Owner's hand instead of the Graveyard.",
+        "title": "Through",
+        "number": "04-08",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Silver Bullet",
+        "art": "04-09.jpeg",
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "1",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"The silver cathedral cross was melted for the alloy.\" \"Isn't that sacreligious?\"",
+        "abilities": "Discard from play to stop a 'Supernatural' attack made against your Movie.",
+        "title": "Silver",
+        "number": "04-09",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Heirloom Sword",
+        "art": "04-10.jpeg",
+        "traits": [
+            "Weapon",
+            "Blade",
+            "Treasure"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"My father's father's father's— it's OLD okay?\"",
+        "abilities": "'Treasure' — Defense = 5 towards the final score.",
+        "title": "Slice",
+        "number": "04-10",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Production Value",
+        "art": "04-11.jpeg",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"It's the cleavage. Monsters are distracted by cleavage.\"",
+        "abilities": "Attach this card to a Female Character. She gains +2 Defense.",
+        "title": "Bosom",
+        "number": "04-11",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Blood Healing",
+        "art": "04-12.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Is that puddle of blood... MOVING?\"",
+        "abilities": "Sacrifice one of your Characters to prevent a 'Vampire' from landing in your Graveyard. Instead place the 'Vampire' into your hand.",
+        "title": "Unlife",
+        "number": "04-12",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Elaborate Death Scene",
+        "art": "04-13.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Fire, broken glass, explosives, silver bullets, AND a chicken for good measure...\"",
+        "abilities": "Double the Strength of the current attack.",
+        "title": "Elaborate",
+        "number": "04-13",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...But They Found a Blood Cure!",
+        "art": "04-14.jpeg",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"You see, Vampirism was merely a disease.\"",
+        "abilities": "Starting your next turn, if you have at least 3 'Vampire' Characters in your Movie you may Bank this Twist. If you do, Bank 1 point for every 'Vampire' in play. From this point forward, all Characters lose the trait 'Vampire'.",
+        "title": "Cure",
+        "number": "04-14",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...But Their Name Written\nBackwards Was...!",
+        "art": "04-15.jpeg",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Foolish mortal! My name isn't ALUCARD!\"",
+        "abilities": "Play with a 'Vampire' Creature face-down under it. Starting your next turn, if you have a 'Vampire' Character in your Movie you may Bank this Twist. If you do, Bank the 'Vampire' Character's Printed Defense and remove them from the game. Then attack with the Creature for free.",
+        "title": "Alucard",
+        "number": "04-15",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll the Credits! (4)",
+        "art": "04-16.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"That was FAR too much blood... I guess it's over!\"",
+        "abilities": "",
+        "title": "Hunter",
+        "number": "04-16",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Renfield",
+        "art": "05-01.jpeg",
+        "traits": [
+            "Dumb",
+            "Male",
+            "Ghoul"
+        ],
+        "stat": "1",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"Crazy? I was crazy once...\"",
+        "abilities": "'Ghoul' — Cannot defend against 'Vampires'.\n\nWhenever a Character in Renfield's Movie dies, he gains +1 Defense permanently, and the trait 'Drunk' until the end of the turn.",
+        "title": "Master",
+        "number": "05-01",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Mina Murray",
+        "art": "05-02.jpeg",
+        "traits": [
+            "Female",
+            "Smart",
+            "Virgin"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"She is one of God's women, fashioned by His own hand.\" \"Gotta watch those hands...\"",
+        "abilities": "If a 'Vampire' attack is successful against her Movie, she loses the trait 'Virgin'.\n\nDefense = 4 if \"Jonathan Harker\" or \"Van Helsing\" is in the same Movie.",
+        "title": "Betrothed",
+        "number": "05-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Lucy Westenra",
+        "art": "05-03.jpeg",
+        "traits": [
+            "Young",
+            "Female"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"All this weakness comes to me in sleep...\" \"Stay away from decaf?\"",
+        "abilities": "For 2 Popcorn, Lucy can be played from your Graveyard as a 'Supernatural' 'Vampire' attack with an Attack Strength of 12. 'Young' Characters cannot defend against her. After the attack is resolved she is removed from the game.",
+        "title": "Weak",
+        "number": "05-03",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Very Old Man",
+        "art": "05-04.jpeg",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "12",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"There is much to be learned from beasts.\"",
+        "abilities": "Can be played as a Special Effect to double the Attack of \"Hariy Old Man\" or \"Scary Old Man\". If all three cards are played in the same attack, if successful you may claim an additional victim.",
+        "title": "Very",
+        "number": "05-04",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Scary Old Man",
+        "art": "05-05.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "12",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Look what your god has done to me!\"\n\"Yep. He definitely has a sense of humor.\"",
+        "abilities": "Can be played as a Special Effect to double the Attack of \"Hariy Old Man\" or \"Very Old Man\".\n\n'Supernatural' Props cannot defend against the Old Man.",
+        "title": "Scary",
+        "number": "05-05",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Hairy Old Man",
+        "art": "05-06.jpeg",
+        "traits": [
+            "Supernatural",
+            "Werewolf"
+        ],
+        "stat": "12",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Say, 'Fetch!' young man. I dare you.\"",
+        "abilities": "Can be played as a Special Effect to double the Attack of \"Very Old Man\" or \"Scary Old Man\".\n\n'Werewolf' — You may Knock Out one 'Werewolf' Character in your own Movie to double the Old Man's Attack Strength. If it fails that Character dies.",
+        "title": "Hairy",
+        "number": "05-06",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Somewhere in Transylvania",
+        "art": "05-07.jpeg",
+        "traits": [
+            "Natural"
+        ],
+        "stat": "0",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"We have a saying here: Life is short, but our nights are eternal!\"",
+        "abilities": "'Vampire' Charaters get +2 Defense in Transylvania.",
+        "title": "Transylvania",
+        "number": "05-07",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Old Abbey",
+        "art": "05-08.jpeg",
+        "traits": [
+            "Holy",
+            "Building"
+        ],
+        "stat": "7",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"Oh look! Carfax is for sale again.\"",
+        "abilities": "You may pay additional Popcorn to play the Old Abbey. So long as it's in play, any Player may, on their turn, purchase the Abbey (i.e. play it in their own Movie) if they pay more Popcorn than the last Player did for it.",
+        "title": "Real",
+        "number": "05-08",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Bottle of Wine",
+        "art": "05-09.jpeg",
+        "traits": [
+            "Booze",
+            "Treasure"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"I never drink.... wine.\"",
+        "abilities": "Discard from play to give a target Character -2 Defense and the Trait 'Drunk' until the end of the turn.",
+        "title": "Vintage",
+        "number": "05-09",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Communion Wafers",
+        "art": "05-10.jpeg",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"The body of Christ compells you!\"",
+        "abilities": "Defense = 5 against 'Vampire' attacks. Discard from play to remove the trait 'Vampire' from any card in play.",
+        "title": "Sanctified",
+        "number": "05-10",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Me and My Shadow",
+        "art": "05-11.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Yeah... something's REALLY fishy about that guy.\"",
+        "abilities": "Attach the Shadow to a Character. Any of their activated Abilities require 1 extra Popcorn to activate.",
+        "title": "Shadow",
+        "number": "05-11",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Hairy Palms",
+        "art": "05-12.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"High five, man!\" \"... Uh...\"",
+        "abilities": "Attach to a Character. Their Defense is at -2.",
+        "title": "Hands",
+        "number": "05-12",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Mind Control Stare",
+        "art": "05-13.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"You are getting very sleepy...\"",
+        "abilities": "Knock Out target Character. They are 'Unlucky' until they wake back up.",
+        "title": "Sleepy",
+        "number": "05-13",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...But That Wasn't in the Book!",
+        "art": "05-14.jpeg",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Hey! Wait! What really happened was...\"",
+        "abilities": "Play another card other than a Plot Twist face-down under this Twist. Starting your next turn you may Bank this Twist. If you do, reveal the card. Provided it doesn't break any rules, you may discard any other card of the same type currently in play and replace it with the card under this Twist. Play resumes normally.",
+        "title": "Switch",
+        "number": "05-14",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "...But They Made an\nHeroic Sacrifice!",
+        "art": "05-15.jpeg",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"No! Leave them alone! Take me!\"",
+        "abilities": "When you are successfully attacked and your Opponent has chosen the Victim, you may Bank this Twist. If you do, you must choose a different Victim among ANY of the Characters in your Movie. (You may ignore 'Unlucky', restrictions imposed by a Creature's abilites, etc.) Bank the new Victim's Printed Defense.",
+        "title": "Sacrifice",
+        "number": "05-15",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll the Credits! (5)",
+        "art": "05-16.jpeg",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well, the big bad vampire turned back into a human when he died. So I guess it's over!\"",
+        "abilities": "",
+        "title": "Summer",
+        "number": "05-16",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Vampire Vampire Hunter",
+        "art": "06-01.jpeg",
+        "traits": [
+            "Male",
+            "Vampire"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Yeah, I'm a vampire who hunts vampires.\" \"Isn't that, like, cannibalism?\" \"Uhm...\"",
+        "abilities": "Defense = 5 against 'Vampires'.\n\n'Vampire' — May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Cannot defend against 'Vampires'). On failure, the Hunter is Knocked Out. Unless the target's a 'Vampire': Then the Duel is to the death.",
+        "title": "Blade",
+        "number": "06-01",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Girl With Oddly Convenient Occupation",
+        "art": "06-02.jpeg",
+        "traits": [
+            "Female",
+            "Smart"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"If we only had a quantum phlebotomist!\" \"I'm a quantum phlebotomist.\"",
+        "abilities": "When the Girl is cast in a Movie, choose a Trait. Her Defense = 3 against attacks with that Trait.",
+        "title": "Device",
+        "number": "06-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Cop Who Knows",
+        "art": "06-03.jpeg",
+        "traits": [
+            "Male",
+            "Cop"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Vampires, monsters, yeah! They're all real. Now help me barricade the door!\"",
+        "abilities": "Defense = 4 against 'Supernatural' attacks.\n\nCop — 'Gun' Props' Defense are x2 in his hands.",
+        "title": "Savvy",
+        "number": "06-03",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Crime Boss Vampire",
+        "art": "06-04.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire",
+            "Psycho"
+        ],
+        "stat": "15",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"You think you can kill me? All you've killed here is my suit!\"",
+        "abilities": "When the Crime Boss attacks, you may discard one 'Vehicle' from the target Movie.\n\n'Psycho' — Any Player may play 'Weapon' Props to boost the Boss' attack for free.",
+        "title": "Mafia",
+        "number": "06-04",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Night Club Vampires",
+        "art": "06-05.jpeg",
+        "traits": [
+            "Cool",
+            "Supernatural",
+            "Vampire",
+            "Swarm"
+        ],
+        "stat": "12",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"They really put the rave in graveyard!\"",
+        "abilities": "If successful the Vampires may kill ANY character in the target Movie who doesn't have either the 'Young' or 'Old' Trait.\n\n'Cool' 'Swarm' — Special Effects cannot be played against the Vampires and 'Weapon' Props' cannot defend against them.",
+        "title": "Dance",
+        "number": "06-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Giant Blob Vampire",
+        "art": "06-06.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire",
+            "Monster"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I don't count calories! I count victims...\"",
+        "abilities": "When you attack with the Blob Vampire, you may kill any number of Characters in your Movie. For each Character you do, the Blob Vampire gets +10 Attack. For every two Characters killed this way, if successful they may claim an additional Victim.",
+        "title": "Ginormous",
+        "number": "06-06",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Undead Rave",
+        "art": "06-07.jpeg",
+        "traits": [
+            "Underground",
+            "Building",
+            "Event"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Cause this is thriller! Thriller night!\"",
+        "abilities": "'Events' can Combine with an existing Location that shares a Trait other than 'Event'.\n\nNON-'Supernatural' attacks against the Rave cannot target 'Vampires'.",
+        "title": "Rave",
+        "number": "06-07",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Frozen Meat Locker",
+        "art": "06-08.jpeg",
+        "traits": [
+            "Building"
+        ],
+        "stat": "1",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"When you think about it, a body is only made up of so much meat.\"",
+        "abilities": "Every NON-'Vampire' Character in the Locker is at -1 Defense.",
+        "title": "Meat",
+        "number": "06-08",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Handcuffs",
+        "art": "06-09.jpeg",
+        "traits": [
+            "Lock"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Ooo.. kinky!\"",
+        "abilities": "Comes into play tipped. Knock out the Character wearing the Handcuffs. They do not wake up when their Director Fills Up at the beginning of their turn. The Handcuffs cannot be moved to another Character, but on their turn their controller may pay 3 Popcorn to discard them. May be played into an Opponent's Movie.",
+        "title": "Bound",
+        "number": "06-09",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Garlic",
+        "art": "06-10.jpeg",
+        "traits": [
+            "Food"
+        ],
+        "stat": "1",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"You'll need garlic. Lots of garlic... Garlic up to your ASS!\"",
+        "abilities": "Defense = 5 against 'Vampire' Attacks.",
+        "title": "Odor",
+        "number": "06-10",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Risen From the Grave",
+        "art": "06-11.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"My god! You're a vampire!\" \"I prefer the term 'living impaired.'\"",
+        "abilities": "Anytime, except during an attack, take a Character from any Graveyard and launch a 'Supernatural' 'Vampire' attack with a Strength of 3x the printed Defense of the Character. If it succeeds, play them in your Movie and attach this card to them. They now have the Trait 'Vampire' and its abilities.",
+        "title": "Arisen",
+        "number": "06-11",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Fire in the Hole!",
+        "art": "06-12.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Burn, baby, burn! Undead inferno!\"",
+        "abilities": "Remove one Location or 'Vehicle' from play OR stop one attack made by a \"Mummy\", 'Zombie', or any 'Vampire'.",
+        "title": "Inferno",
+        "number": "06-12",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Full Frontal Nudity",
+        "art": "06-13.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Hey! We have standards here! Double standards... but standards!\"",
+        "abilities": "Attach to any NON-'Virgin' 'Female' Character to give her +2 Defense OR kill a NON-'Virgin' 'Male' in any Movie.",
+        "title": "Naked",
+        "number": "06-13",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "... But She Was\nWith Them All Along!",
+        "art": "06-14.jpeg",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"M-mom? What are you doing with HIM?\"",
+        "abilities": "Starting your next turn, if you have a 'Male' 'Vampire' cast in your Movie and there is a NON-'Virgin' 'Female' Character in any Graveyard, you may Bank this Twist. If you do, play the 'Female' Character into your Movie, and they both gain the trait 'Family'.",
+        "title": "Infidelity",
+        "number": "06-14",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "... But They Bit Off More\nThan They Could Chew!",
+        "art": "06-15.jpeg",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"So... the bad news is that I missed one.\"",
+        "abilities": "If a NON-'Vampire' Character in your Movie is killed, you may Bank this Twist. If you do, instead of landing in the Graveyard, shuffle them back into your Deck. When they are next Cast in your Movie, they gain the trait 'Vampire' [May make 'Supernatural' Duels. On success, the Victim gains 'Ghoul' (Defense against 'Vampire' attacks = 0). On failure, the Vampire is Knocked Out.].",
+        "title": "Rushed",
+        "number": "06-15",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "",
+        "art": "06-16.jpeg",
+        "traits": [],
+        "stat": "0",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Well the vamp decided to walk off into the sunrise... So I guess it's over!\"",
+        "abilities": "",
+        "title": "Innocent",
+        "number": "06-16",
+        "mechanic": "?",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Garlic",
+        "art": "99-98.jpeg",
+        "traits": [
+            "Food"
+        ],
+        "stat": "1",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"Lots of garlic... Garlic up to your ASS!\"",
+        "abilities": "Defense = 5 against 'Vampire' Attacks.",
+        "title": "Odor",
+        "number": "99-98",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Dracula",
+        "art": "99-99.jpeg",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "13",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"The spider spinning his web for the unwary fly... I should really clean this place up!\"",
+        "abilities": "If an attack with Dracula is successful, you may discard a Character or Creature from your hand to take Dracula back into your hand.",
+        "title": "Dracula",
+        "number": "99-99",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "artist": "Steve Caruso"
+    }
+]
