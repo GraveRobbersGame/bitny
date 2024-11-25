@@ -314,7 +314,7 @@
     },
     {
         "type": "roll-the-credits",
-        "name": "Roll the Credits! (1)",
+        "name": "Roll the Credits",
         "art": "01-16.jpeg",
         "traits": [],
         "stat": "",
@@ -653,7 +653,7 @@
     },
     {
         "type": "roll-the-credits",
-        "name": "Roll the Credits! (2)",
+        "name": "Roll the Credits",
         "art": "02-16.jpeg",
         "traits": [],
         "stat": "0",
@@ -990,7 +990,7 @@
     },
     {
         "type": "roll-the-credits",
-        "name": "Roll the Credits! (3)",
+        "name": "Roll the Credits",
         "art": "03-16.jpeg",
         "traits": [],
         "stat": "0",
@@ -1329,7 +1329,7 @@
     },
     {
         "type": "roll-the-credits",
-        "name": "Roll the Credits! (4)",
+        "name": "Roll the Credits",
         "art": "04-16.jpeg",
         "traits": [],
         "stat": "",
@@ -1662,7 +1662,7 @@
     },
     {
         "type": "roll-the-credits",
-        "name": "Roll the Credits! (5)",
+        "name": "Roll the Credits",
         "art": "05-16.jpeg",
         "traits": [],
         "stat": "",
@@ -1998,7 +1998,7 @@
     },
     {
         "type": "roll-the-credits",
-        "name": "",
+        "name": "Roll the Credits",
         "art": "06-16.jpeg",
         "traits": [],
         "stat": "0",
